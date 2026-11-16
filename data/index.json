@@ -1,0 +1,44 @@
+{
+ "updatedAt": "2026-11-16T10:26:01+00:00",
+ "platforms": [
+  {
+   "id": "ktown4u",
+   "name": "Ktown4u",
+   "supported": true,
+   "events": [
+    {
+     "eventNo": "44630661",
+     "title": "MAX CHANGMIN",
+     "description": "Video Call Event",
+     "start": "2026-11-16 18:00:00.0",
+     "end": "2026-11-19 00:00:00.0",
+     "autofound": true,
+     "status": "upcoming",
+     "tracked": false,
+     "hasSummary": false
+    }
+   ]
+  },
+  {
+   "id": "soundwave",
+   "name": "Soundwave",
+   "supported": false,
+   "reason": "平台(Cafe24)不公开销量/应募数",
+   "events": []
+  },
+  {
+   "id": "yetimall",
+   "name": "Yetimall (yettie.kr)",
+   "supported": false,
+   "reason": "待接入(Next.js 站,需逆向接口)",
+   "events": []
+  },
+  {
+   "id": "makestar",
+   "name": "MakeStar",
+   "supported": false,
+   "reason": "is_display_stock=false,不公开销量",
+   "events": []
+  }
+ ]
+}
